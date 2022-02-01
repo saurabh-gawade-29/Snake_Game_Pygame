@@ -1,7 +1,7 @@
 
 # Snake Game - With GUI
 
-This game is make by using PyGame
+This game is made by using PyGame
 
 
 ## Documentation
