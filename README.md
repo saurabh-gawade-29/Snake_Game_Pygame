@@ -25,3 +25,8 @@ Install pygame module with npm
 
 Open project and RUN
     
+## Screenshot
+![image](https://github.com/saurabh-gawade-29/Snake_Game_Pygame/blob/main/Snake_Game_ScreenShot/welcome.png)
+![image](https://github.com/saurabh-gawade-29/Snake_Game_Pygame/blob/main/Snake_Game_ScreenShot/intialStartPage.png)
+![image](https://github.com/saurabh-gawade-29/Snake_Game_Pygame/blob/main/Snake_Game_ScreenShot/snake.png)
+![image](https://github.com/saurabh-gawade-29/Snake_Game_Pygame/blob/main/Snake_Game_ScreenShot/GameOver.png)
